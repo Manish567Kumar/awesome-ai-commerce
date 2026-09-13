@@ -114,6 +114,7 @@
 - 💰 [Klaviyo](https://www.klaviyo.com/) — Ecommerce marketing with best-in-class predictive and AI data.
 - 🛠️ [Mautic](https://github.com/mautic/mautic) — Open-source marketing automation (email, campaigns, segmentation); self-hosted.
 - 💰 [Omnisend](https://www.omnisend.com/) — Email and SMS marketing built for ecommerce, with AI assist.
+- 🛠️ [RevenueOS](https://github.com/unempyd/revenueos) — Open-source agent that audits a site for lost revenue and applies owner-approved fixes across the site, ads, and email.
 
 ## Sales & Lead Generation
 
