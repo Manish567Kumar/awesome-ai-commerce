@@ -76,6 +76,7 @@
 - 🧩🛠️ [Bolna](https://github.com/bolna-ai/bolna) — End-to-end open-source framework for production voice agents (ASR + LLM + TTS).
 - 🛠️ [Patter](https://github.com/PatterAI/Patter) — MIT-licensed voice-AI SDK; give an agent a phone number in a few lines.
 - 🧩🛠️ [Vocode](https://github.com/vocodedev/vocode-core) — Open-source library for building real-time voice LLM agents over phone and web.
+- 💰 [Workforce Wave](https://www.workforcewave.com/) — AI voice agents and virtual receptionists for SMB call answering, booking, lead capture, and routing.
 
 ## Shopify & Storefront AI
 
