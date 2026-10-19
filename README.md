@@ -20,6 +20,7 @@
 ## Contents
 
 - [AI Agent Frameworks](#ai-agent-frameworks)
+- [Agent Payment Infrastructure](#agent-payment-infrastructure)
 - [Conversational Commerce](#conversational-commerce)
 - [Customer Support Automation](#customer-support-automation)
 - [Voice AI](#voice-ai)
@@ -48,6 +49,12 @@
 - 🧩🛠️ [n8n](https://github.com/n8n-io/n8n) — Workflow automation with native AI/LLM nodes; wire agents into hundreds of business apps.
 - 🧩🛠️ [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) — Lightweight framework for single- and multi-agent apps.
 - 🛠️ [Specialist Swarm](https://github.com/Manish567Kumar/specialist-swarm) — A coordinator agent that fans an RFP out to specialist sub-agents and returns a finished branded proposal.
+
+## Agent Payment Infrastructure
+
+*Payment runtimes used by AI agents, with explicit owner approval boundaries.*
+
+- 🛠️ [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 
 ## Conversational Commerce
 
