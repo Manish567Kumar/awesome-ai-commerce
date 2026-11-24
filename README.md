@@ -141,6 +141,8 @@
 - 💰 [Nosto](https://www.nosto.com/) — Commerce personalization and product recommendations.
 - 🛠️ [PostHog](https://github.com/PostHog/posthog) — Open-source, self-hostable product analytics, session recording, and A/B testing.
 - 💰 [Rebuy](https://www.rebuyengine.com/) — AI-powered upsell, cross-sell, and personalization for Shopify.
+- [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) — Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+- [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) — Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter (Apify Actor, API + MCP).
 
 ## Sourcing & Supply Chain
 
